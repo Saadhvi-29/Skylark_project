@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+groq
+sentence-transformers
+numpy
