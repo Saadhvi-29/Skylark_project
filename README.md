@@ -412,8 +412,6 @@ My Access Tokens
 
 The token is required for the application to query the GraphQL API.
 
-**Do not commit the API token to GitHub.**
-
 ---
 
 # Environment Variables
