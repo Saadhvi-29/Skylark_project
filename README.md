@@ -3,7 +3,6 @@
 > A conversational business-intelligence agent that answers founder-level questions over **live monday.com Deals and Work Orders boards** using real-time data from the monday.com GraphQL API.
 
 **Live App:** [Skylark Agent](https://skylarkproject-c2lhfvckmqfzpvpde7pfm8.streamlit.app?utm_source=chatgpt.com)
-**Repository:** [GitHub Repository]([https://github.com/Saadhvi-29/Skylark_project.git](https://github.com/Saadhvi-29/Skylark_project))
 
 ---
 
